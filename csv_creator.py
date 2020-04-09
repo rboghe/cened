@@ -12,11 +12,15 @@ cened12['SUPERFICIE_DISPERDENTE'] = cened12['SUPERFICIE_DISPERDENTE'].str.replac
 cened12['SUPERFICIE_DISPERDENTE'] = cened12['SUPERFICIE_DISPERDENTE'].astype(float)
 
 # Drop NaN 
-cened2 = cened2.dropna(subset=['FOGLIO', 'PARTICELLA', 'SUPERFICIE_DISPERDENTE'])
-cened12 = cened12.dropna(subset=['FOGLIO', 'PARTICELLA', 'SUPERFICIE_DISPERDENTE'])
+cened2 = cened2.dropna(subset=['COMUNE','FOGLIO', 'PARTICELLA','SUPERFICIE_DISPERDENTE'])
+cened12 = cened12.dropna(subset=['COMUNE','FOGLIO', 'PARTICELLA','SUPERFICIE_DISPERDENTE'])
 
 # Merge dfs
-cenedtot = pd.merge(left=cened2, right=cened12, left_on=['FOGLIO', 'PARTICELLA'], right_on=['FOGLIO', 'PARTICELLA'],  how='outer')
+cenedtot = pd.merge(left=cened2, right=cened12, left_on=['COMUNE','FOGLIO', 'PARTICELLA'], right_on=['COMUNE','FOGLIO', 'PARTICELLA'],  how='inner')
+
+# Drop renovations
+cenedtot = cenedtot[cenedtot['RISTRUTTURAZIONE_IMPORTANTE'] == False]
+cenedtot = cenedtot[cenedtot['RIQUALIFICAZIONE_ENERGETICA'] == False]
 
 # Compute difference between ext surfaces
 cenedtot['surfdiff'] = abs((cenedtot['SUPERFICIE_DISPERDENTE_x'] - cenedtot['SUPERFICIE_DISPERDENTE_y'])/cenedtot['SUPERFICIE_DISPERDENTE_x'])
