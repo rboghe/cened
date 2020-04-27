@@ -1,0 +1,1548 @@
+nan,prov,comune,boh,dd,zona
+,VA,Agra,655,3029,F 
+,VA,Albizzate,334,2605,E 
+,VA,Angera,205,2433,E 
+,VA,Arcisate,381,2651,E 
+,VA,Arsago Seprio,290,2525,E 
+,VA,Azzate,332,2602,E 
+,VA,Azzio,399,2676,E 
+,VA,Barasso,401,2679,E 
+,VA,Bardello,263,2513,E 
+,VA,Bedero Valcuvia,520,2764,E 
+,VA,Besano,350,2608,E 
+,VA,Besnate,300,2761,E 
+,VA,Besozzo,258,2506,E 
+,VA,Biandronno,262,2512,E 
+,VA,Bisuschio,345,2620,E 
+,VA,Bodio Lomnago,273,2521,E 
+,VA,Brebbia,225,2461,E 
+,VA,Bregano,303,2543,E 
+,VA,Brenta,276,2531,E 
+,VA,Brezzo di Bedero,352,2668,E 
+,VA,Brinzio,510,2751,E 
+,VA,Brissago-Valtravaglia,429,2772,E 
+,VA,Brunello,411,2711,E 
+,VA,Brusimpiano,289,2527,E 
+,VA,Buguggiate,306,2567,E 
+,VA,Busto Arsizio,226,2861,E 
+,VA,Cadegliano-Viconago,414,2705,E 
+,VA,Cadrezzate,281,2513,E 
+,VA,Cairate,276,2525,E 
+,VA,Cantello,404,2702,E 
+,VA,Caravate,296,2559,E 
+,VA,Cardano al Campo,240,2880,E 
+,VA,Carnago,354,2633,E 
+,VA,Caronno Pertusella,194,2352,E 
+,VA,Caronno Varesino,403,2700,E 
+,VA,Casale Litta,382,2671,E 
+,VA,Casalzuigno,350,2608,E 
+,VA,Casciago,426,2713,E 
+,VA,Casorate Sempione,282,2938,E 
+,VA,Cassano Magnago,261,2909,E 
+,VA,Cassano Valcuvia,296,2534,E 
+,VA,Castellanza,216,2847,E 
+,VA,Castello Cabiaglio,514,2756,E 
+,VA,Castelseprio,310,2572,E 
+,VA,Castelveccana,257,2505,E 
+,VA,Castiglione Olona,307,2568,E 
+,VA,Castronno,325,2593,E 
+,VA,Cavaria con Premezzo,268,2716,E 
+,VA,Cazzago Brabbia,265,2491,E 
+,VA,Cislago,237,2876,E 
+,VA,Cittiglio,254,2501,E 
+,VA,Clivio,468,2693,E 
+,VA,Cocquio-Trevisago,291,2552,E 
+,VA,Comabbio,307,2549,E 
+,VA,Comerio,382,2652,E 
+,VA,Cremenaga,272,2543,E 
+,VA,Crosio della Valle,322,2589,E 
+,VA,Cuasso al Monte,530,2778,E 
+,VA,Cugliate-Fabiasco,516,2759,E 
+,VA,Cunardo,450,2666,E 
+,VA,Curiglia con Monteviasco,670,3050,F 
+,VA,Cuveglio,294,2531,E 
+,VA,Cuvio,309,2577,E 
+,VA,Daverio,327,2596,E 
+,VA,Dumenza,411,2692,E 
+,VA,Duno,530,2778,E 
+,VA,Fagnano Olona,265,2915,E 
+,VA,Ferno,211,2840,E 
+,VA,Ferrera di Varese,299,2569,E 
+,VA,Gallarate,238,2877,E 
+,VA,Galliate Lombardo,335,2607,E 
+,VA,Gavirate,261,2511,E 
+,VA,Gazzada Schianno,368,2652,E 
+,VA,Gemonio,303,2569,E 
+,VA,Gerenzano,226,2437,E 
+,VA,Germignaga,204,2433,E 
+,VA,Golasecca,280,2935,E 
+,VA,Gorla Maggiore,258,2905,E 
+,VA,Gorla Minore,237,2876,E 
+,VA,Gornate Olona,303,2562,E 
+,VA,Grantola,250,2632,E 
+,VA,Inarzo,261,2485,E 
+,VA,Induno Olona,394,2669,E 
+,VA,Ispra,220,2454,E 
+,VA,Jerago con Orago,324,2591,E 
+,VA,Lavena Ponte Tresa,275,2507,E 
+,VA,Laveno-Mombello,205,2433,E 
+,VA,Leggiuno,240,2482,E 
+,VA,Lonate Ceppino,287,2540,E 
+,VA,Lonate Pozzolo,205,2879,E 
+,VA,Lozza,329,2598,E 
+,VA,Luino,202,2465,E 
+,VA,Luvinate,425,2712,E 
+,VA,Maccagno,210,2415,E 
+,VA,Malgesso,291,2527,E 
+,VA,Malnate,355,2634,E 
+,VA,Marchirolo,500,2736,E 
+,VA,Marnate,227,2862,E 
+,VA,Marzio,728,3142,F 
+,VA,Masciago Primo,343,2599,E 
+,VA,Mercallo,277,2840,E 
+,VA,Mesenzana,305,2573,E 
+,VA,Montegrino Valtravaglia,525,2771,E 
+,VA,Monvalle,226,2462,E 
+,VA,Morazzone,432,2721,E 
+,VA,Mornago,281,2513,E 
+,VA,Oggiona con Santo Stefano,293,2530,E 
+,VA,Olgiate Olona,239,2879,E 
+,VA,Origgio,194,2393,E 
+,VA,Orino,456,2754,E 
+,VA,Osmate,333,2585,E 
+,VA,Pino sulla Sponda del Lago Maggiore,289,2524,E 
+,VA,Porto Ceresio,280,2512,E 
+,VA,Porto Valtravaglia,199,2425,E 
+,VA,Rancio Valcuvia,296,2534,E 
+,VA,Ranco,214,2446,E 
+,VA,Saltrio,543,2796,E 
+,VA,Samarate,221,2854,E 
+,VA,Sangiano,223,2458,E 
+,VA,Saronno,212,2418,E 
+,VA,Sesto Calende,198,2620,E 
+,VA,Solbiate Arno,325,2593,E 
+,VA,Solbiate Olona,247,2466,E 
+,VA,Somma Lombardo,282,2938,E 
+,VA,Sumirago,392,2685,E 
+,VA,Taino,262,2487,E 
+,VA,Ternate,281,2513,E 
+,VA,Tradate,303,2562,E 
+,VA,Travedona-Monate,273,2502,E 
+,VA,Tronzano Lago Maggiore,342,2597,E 
+,VA,Uboldo,205,2408,E 
+,VA,Valganna,460,2760,E 
+,VA,Varano Borghi,281,2532,E 
+,VA,Varese,382,2652,E 
+,VA,Vedano Olona,360,2641,E 
+,VA,Veddasca,896,3362,F 
+,VA,Venegono Inferiore,320,2586,E 
+,VA,Venegono Superiore,331,2601,E 
+,VA,Vergiate,270,2498,E 
+,VA,Viggiù,482,2712,E 
+,VA,Vizzola Ticino,206,2614,E 
+,CO,Albavilla,429,2679,E 
+,CO,Albese con Cassano,402,2640,E 
+,CO,Albiolo,423,2670,E 
+,CO,Alserio,265,2446,E 
+,CO,Alzate Brianza,371,2596,E 
+,CO,Anzano del Parco,329,2537,E 
+,CO,Appiano Gentile,366,2649,E 
+,CO,Argegno,210,2368,E 
+,CO,Arosio,292,2484,E 
+,CO,Asso,427,2837,E 
+,CO,Barni,627,2960,E 
+,CO,Bellagio,229,2259,E 
+,CO,Bene Lario,377,2605,E 
+,CO,Beregazzo con Figliaro,423,2730,E 
+,CO,Binago,431,2682,E 
+,CO,Bizzarone,436,2689,E 
+,CO,Blessagno,762,3152,F 
+,CO,Blevio,231,2271,E 
+,CO,Bregnano,298,2553,E 
+,CO,Brenna,356,2575,E 
+,CO,Brienno,203,2358,E 
+,CO,Brunate,715,3085,F 
+,CO,Bulgarograsso,317,2580,E 
+,CO,Cabiate,237,2406,E 
+,CO,Cadorago,313,2514,E 
+,CO,Caglio,800,3206,F 
+,CO,Cagno,405,2705,E 
+,CO,Campione d'Italia,273,2457,E 
+,CO,Cantù,369,2594,E 
+,CO,Canzo,402,2801,E 
+,CO,Capiago Intimiano,421,2667,E 
+,CO,Carate Urio,204,2233,E 
+,CO,Carbonate,267,2449,E 
+,CO,Carimate,265,2446,E 
+,CO,Carlazzo,481,2753,E 
+,CO,Carugo,270,2453,E 
+,CO,Casasco d'Intelvi,822,3237,F 
+,CO,Caslino d'Erba,427,2837,E 
+,CO,Casnate con Bernate,342,2555,E 
+,CO,Cassina Rizzardi,317,2580,E 
+,CO,Castelmarte,459,2882,E 
+,CO,Castelnuovo Bozzente,398,2695,E 
+,CO,Castiglione d'Intelvi,650,2993,E 
+,CO,Cavallasca,400,2638,E 
+,CO,Cavargna,1071,3590,F 
+,CO,Cerano d'Intelvi,630,2964,E 
+,CO,Cermenate,297,2491,E 
+,CO,Cernobbio,201,2228,E 
+,CO,Cirimido,290,2481,E 
+,CO,Civenna,627,2960,E 
+,CO,Claino con Osteno,280,2467,E 
+,CO,Colonno,215,2375,E 
+,CO,Como,201,2228,E 
+,CO,Consiglio di Rumo,210,2368,E 
+,CO,Corrido,483,2755,E 
+,CO,Cremia,323,2528,E 
+,CO,Cucciago,349,2565,E 
+,CO,Cusino,800,3206,F 
+,CO,Dizzasco,506,2788,E 
+,CO,Domaso,216,2376,E 
+,CO,Dongo,208,2229,E 
+,CO,Dosso del Liro,650,2993,E 
+,CO,Drezzo,385,2676,E 
+,CO,Erba,320,2524,E 
+,CO,Eupilio,383,2775,E 
+,CO,Faggeto Lario,533,2826,E 
+,CO,Faloppio,376,2664,E 
+,CO,Fenegrò,290,2541,E 
+,CO,Figino Serenza,329,2537,E 
+,CO,Fino Mornasco,334,2604,E 
+,CO,Garzeno,662,3010,F 
+,CO,Gera Lario,201,2355,E 
+,CO,Germasino,570,2879,E 
+,CO,Gironico,370,2655,E 
+,CO,Grandate,320,2584,E 
+,CO,Grandola ed Uniti,443,2699,E 
+,CO,Gravedona,201,2355,E 
+,CO,Griante,247,2284,E 
+,CO,Guanzate,342,2615,E 
+,CO,Inverigo,346,2561,E 
+,CO,Laglio,202,2230,E 
+,CO,Laino,671,3022,F 
+,CO,Lambrugo,280,2467,E 
+,CO,Lanzo d'Intelvi,907,3358,F 
+,CO,Lasnigo,570,2879,E 
+,CO,Lenno,209,2366,E 
+,CO,Lezzeno,202,2356,E 
+,CO,Limido Comasco,276,2522,E 
+,CO,Lipomo,384,2615,E 
+,CO,Livo,675,3028,F 
+,CO,Locate Varesino,274,2519,E 
+,CO,Lomazzo,296,2550,E 
+,CO,Longone al Segrino,368,2753,E 
+,CO,Luisago,327,2534,E 
+,CO,Lurago d'Erba,351,2568,E 
+,CO,Lurago Marinone,294,2547,E 
+,CO,Lurate Caccivio,322,2587,E 
+,CO,Magreglio,744,3126,F 
+,CO,Mariano Comense,252,2427,E 
+,CO,Maslianico,225,2262,E 
+,CO,Menaggio,203,2222,E 
+,CO,Merone,284,2439,E 
+,CO,Mezzegra,206,2226,E 
+,CO,Moltrasio,247,2420,E 
+,CO,Monguzzo,320,2524,E 
+,CO,Montano Lucino,331,2540,E 
+,CO,Montemezzo,522,2811,E 
+,CO,Montorfano,414,2657,E 
+,CO,Mozzate,255,2219,E 
+,CO,Musso,201,2219,E 
+,CO,Nesso,300,2496,E 
+,CO,Novedrate,277,2463,E 
+,CO,Olgiate Comasco,415,2719,E 
+,CO,Oltrona di San Mamette,370,2655,E 
+,CO,Orsenigo,390,2623,E 
+,CO,Ossuccio,235,2403,E 
+,CO,Parè,412,2655,E 
+,CO,Peglio,650,2993,E 
+,CO,Pellio Intelvi,750,3135,F 
+,CO,Pianello del Lario,213,2236,E 
+,CO,Pigra,881,3321,F 
+,CO,Plesio,595,2880,E 
+,CO,Pognana Lario,307,2506,E 
+,CO,Ponna,870,3305,F 
+,CO,Ponte Lambro,305,2503,E 
+,CO,Porlezza,275,2460,E 
+,CO,Proserpio,570,2870,E 
+,CO,Pusiano,264,2444,E 
+,CO,Ramponio Verna,667,3017,F 
+,CO,Rezzago,654,2998,E 
+,CO,Rodero,394,2689,E 
+,CO,Ronago,357,2637,E 
+,CO,Rovellasca,244,2416,E 
+,CO,Rovello Porro,240,2410,E 
+,CO,Sala Comacina,213,2372,E 
+,CO,San Bartolomeo Val Cavargna,852,3279,F 
+,CO,San Fedele Intelvi,779,3176,F 
+,CO,San Fermo della Battaglia,397,2633,E 
+,CO,San Nazzaro Val Cavargna,995,3482,F 
+,CO,San Siro,220,2246,E 
+,CO,Santa Maria Rezzonico,205,2239,E 
+,CO,Sant'Abbondio,220,2246,E 
+,CO,Schignano,600,2922,E 
+,CO,Senna Comasco,296,2490,E 
+,CO,Solbiate,445,2762,E 
+,CO,Sorico,201,2355,E 
+,CO,Sormano,775,3170,F 
+,CO,Stazzona,515,2801,E 
+,CO,Tavernerio,460,2723,E 
+,CO,Torno,225,2262,E 
+,CO,Tremezzo,225,2253,E 
+,CO,Trezzone,430,2680,E 
+,CO,Turate,240,2410,E 
+,CO,Uggiate-Trevano,414,2718,E 
+,CO,Val Rezzo,1044,3552,F 
+,CO,Valbrona,494,2932,E 
+,CO,Valmorea,408,2709,E 
+,CO,Valsolda,275,2460,E 
+,CO,Veleso,826,3243,F 
+,CO,Veniano,316,2578,E 
+,CO,Vercana,345,2559,E 
+,CO,Vertemate con Minoprio,342,2555,E 
+,CO,Villa Guardia,350,2627,E 
+,CO,Zelbio,802,3208,F 
+,SO,Albaredo per San Marco,950,3419,F 
+,SO,Albosaggia,490,3256,F 
+,SO,Andalo Valtellino,229,3011,F 
+,SO,Aprica,1172,3734,F 
+,SO,Ardenno,266,2447,E 
+,SO,Bema,800,3206,F 
+,SO,Berbenno di Valtellina,370,2844,E 
+,SO,Bianzone,444,2700,E 
+,SO,Bormio,1225,3838,F 
+,SO,Buglio in Monte,577,3047,F 
+,SO,Caiolo,335,3111,F 
+,SO,Campodolcino,1071,3590,F 
+,SO,Caspoggio,1098,3629,F 
+,SO,Castello dell'Acqua,664,3012,F 
+,SO,Castione Andevenno,468,2734,E 
+,SO,Cedrasco,287,3066,F 
+,SO,Cercino,487,2761,E 
+,SO,Chiavenna,333,2426,E 
+,SO,Chiesa in Valmalenco,960,3433,F 
+,SO,Chiuro,390,2873,E 
+,SO,Cino,504,3004,F 
+,SO,Civo,719,3091,F 
+,SO,Colorina,302,3080,F 
+,SO,Cosio Valtellino,231,3013,F 
+,SO,Dazio,568,3041,F 
+,SO,Delebio,218,3001,F 
+,SO,Dubino,223,2386,E 
+,SO,Faedo Valtellino,557,3319,F 
+,SO,Forcola,289,3067,F 
+,SO,Fusine,285,3064,F 
+,SO,Gerola Alta,1050,3561,F 
+,SO,Gordona,283,2355,E 
+,SO,Grosio,656,3001,F 
+,SO,Grosotto,590,3054,F 
+,SO,Lanzada,983,3465,F 
+,SO,Livigno,1816,4648,F 
+,SO,Lovero,515,3011,F 
+,SO,Madesimo,1399,4056,F 
+,SO,Mantello,211,2369,E 
+,SO,Mazzo di Valtellina,552,3032,F 
+,SO,Mello,681,3037,F 
+,SO,Menarola,720,3092,F 
+,SO,Mese,274,2459,E 
+,SO,Montagna in Valtellina,567,3041,F 
+,SO,Morbegno,262,3042,F 
+,SO,Novate Mezzola,212,2371,E 
+,SO,Pedesina,1032,3535,F 
+,SO,Piantedo,215,2375,E 
+,SO,Piateda,304,3082,F 
+,SO,Piuro,382,2496,E 
+,SO,Poggiridenti,564,3039,F 
+,SO,Ponte in Valtellina,485,2758,E 
+,SO,Postalesio,516,3011,F 
+,SO,Prata Camportaccio,352,2453,E 
+,SO,Rasura,762,3206,F 
+,SO,Rogolo,216,3002,F 
+,SO,Samolaco,213,2372,E 
+,SO,San Giacomo Filippo,522,3001,F 
+,SO,Sernio,632,3078,F 
+,SO,Sondalo,939,3403,F 
+,SO,Sondrio,307,2755,E 
+,SO,Spriana,754,3140,F 
+,SO,Talamona,285,3064,F 
+,SO,Tartano,1210,3788,F 
+,SO,Teglio,851,3278,F 
+,SO,Tirano,441,2696,E 
+,SO,Torre di Santa Maria,772,3166,F 
+,SO,Tovo di Sant'Agata,526,3017,F 
+,SO,Traona,252,2427,E 
+,SO,Tresivio,504,3004,F 
+,SO,Val Masino,787,3187,F 
+,SO,Valdidentro,1350,3987,F 
+,SO,Valdisotto,1141,3690,F 
+,SO,Valfurva,1339,3971,F 
+,SO,Verceia,200,2354,E 
+,SO,Vervio,549,3030,F 
+,SO,Villa di Chiavenna,633,3065,F 
+,SO,Villa di Tirano,400,2646,E 
+,MI,Abbiategrasso,120,2386,E 
+,MI,Agrate Brianza,162,2557,E 
+,MI,Aicurzio,230,2415,E 
+,MI,Albairate,123,2360,E 
+,MI,Albiate,233,2469,E 
+,MI,Arconate,178,2634,E 
+,MI,Arcore,193,2470,E 
+,MI,Arese,160,2549,E 
+,MI,Arluno,156,2563,E 
+,MI,Assago,109,2404,E 
+,MI,Bareggio,138,2563,E 
+,MI,Barlassina,227,2489,E 
+,MI,Basiano,161,2416,E 
+,MI,Basiglio,97,2479,E 
+,MI,Bellinzago Lombardo,129,2441,E 
+,MI,Bellusco,214,2409,E 
+,MI,Bernareggio,234,2420,E 
+,MI,Bernate Ticino,130,2673,E 
+,MI,Besana in Brianza,335,2608,E 
+,MI,Besate,104,2619,E 
+,MI,Biassono,202,2447,E 
+,MI,Binasco,101,2514,E 
+,MI,Boffalora sopra Ticino,142,2470,E 
+,MI,Bollate,156,2404,E 
+,MI,Bovisio-Masciago,188,2449,E 
+,MI,Bresso,142,2404,E 
+,MI,Briosco,271,2521,E 
+,MI,Brugherio,145,2404,E 
+,MI,Bubbiano,106,2514,E 
+,MI,Buccinasco,113,2404,E 
+,MI,Burago di Molgora,182,2416,E 
+,MI,Buscate,178,2470,E 
+,MI,Busnago,210,2408,E 
+,MI,Bussero,141,2557,E 
+,MI,Busto Garolfo,180,2470,E 
+,MI,Calvignasco,105,2623,E 
+,MI,Cambiago,158,2404,E 
+,MI,Camparada,243,2441,E 
+,MI,Canegrate,193,2617,E 
+,MI,Caponago,158,2404,E 
+,MI,Carate Brianza,250,2492,E 
+,MI,Carnate,237,2433,E 
+,MI,Carpiano,91,2557,E 
+,MI,Carugate,149,2404,E 
+,MI,Casarile,97,2439,E 
+,MI,Casorezzo,166,2656,E 
+,MI,Cassano d'Adda,133,2536,E 
+,MI,Cassina de' Pecchi,130,2404,E 
+,MI,Cassinetta di Lugagnano,125,2532,E 
+,MI,Castano Primo,182,2634,E 
+,MI,Cavenago di Brianza,176,2441,E 
+,MI,Ceriano Laghetto,216,2474,E 
+,MI,Cernusco sul Naviglio,134,2404,E 
+,MI,Cerro al Lambro,84,2514,E 
+,MI,Cerro Maggiore,205,2459,E 
+,MI,Cesano Boscone,119,2404,E 
+,MI,Cesano Maderno,198,2450,E 
+,MI,Cesate,194,2421,E 
+,MI,Cinisello Balsamo,154,2404,E 
+,MI,Cisliano,128,2538,E 
+,MI,Cogliate,236,2502,E 
+,MI,Cologno Monzese,131,2404,E 
+,MI,Colturano,92,2404,E 
+,MI,Concorezzo,171,2404,E 
+,MI,Corbetta,140,2563,E 
+,MI,Cormano,149,2404,E 
+,MI,Cornaredo,140,2386,E 
+,MI,Cornate d'Adda,236,2426,E 
+,MI,Correzzana,255,2462,E 
+,MI,Corsico,115,2404,E 
+,MI,Cuggiono,157,2617,E 
+,MI,Cusago,126,2404,E 
+,MI,Cusano Milanino,152,2404,E 
+,MI,Dairago,194,2617,E 
+,MI,Desio,196,2447,E 
+,MI,Dresano,92,2557,E 
+,MI,Gaggiano,117,2404,E 
+,MI,Garbagnate Milanese,179,2449,E 
+,MI,Gessate,144,2441,E 
+,MI,Giussano,260,2547,E 
+,MI,Gorgonzola,133,2557,E 
+,MI,Grezzago,180,2471,E 
+,MI,Gudo Visconti,111,2435,E 
+,MI,Inveruno,161,2609,E 
+,MI,Inzago,137,2416,E 
+,MI,Lacchiarella,98,2514,E 
+,MI,Lainate,176,2505,E 
+,MI,Lazzate,257,2530,E 
+,MI,Legnano,199,2451,E 
+,MI,Lentate sul Seveso,250,2521,E 
+,MI,Lesmo,241,2434,E 
+,MI,Limbiate,187,2421,E 
+,MI,Liscate,115,2557,E 
+,MI,Lissone,191,2404,E 
+,MI,Locate di Triulzi,96,2404,E 
+,MI,Macherio,215,2442,E 
+,MI,Magenta,138,2532,E 
+,MI,Magnago,197,2448,E 
+,MI,Marcallo con Casone,147,2673,E 
+,MI,Masate,153,2416,E 
+,MI,Meda,221,2481,E 
+,MI,Mediglia,95,2557,E 
+,MI,Melegnano,88,2557,E 
+,MI,Melzo,118,2404,E 
+,MI,Mesero,154,2609,E 
+,MI,Mezzago,219,2420,E 
+,MI,Milano,122,2404,E 
+,MI,Misinto,252,2524,E 
+,MI,Monza,162,2404,E 
+,MI,Morimondo,109,2435,E 
+,MI,Motta Visconti,100,2499,E 
+,MI,Muggiò,186,2404,E 
+,MI,Nerviano,175,2545,E 
+,MI,Nosate,177,2673,E 
+,MI,Nova Milanese,175,2404,E 
+,MI,Novate Milanese,148,2404,E 
+,MI,Noviglio,105,2514,E 
+,MI,Opera,101,2404,E 
+,MI,Ornago,193,2404,E 
+,MI,Ossona,156,2656,E 
+,MI,Ozzero,107,2604,E 
+,MI,Paderno Dugnano,163,2404,E 
+,MI,Pantigliate,104,2557,E 
+,MI,Parabiago,184,2603,E 
+,MI,Paullo,97,2557,E 
+,MI,Pero,144,2404,E 
+,MI,Peschiera Borromeo,101,2404,E 
+,MI,Pessano con Bornago,148,2404,E 
+,MI,Pieve Emanuele,97,2404,E 
+,MI,Pioltello,122,2404,E 
+,MI,Pogliano Milanese,164,2545,E 
+,MI,Pozzo d'Adda,164,2416,E 
+,MI,Pozzuolo Martesana,121,2557,E 
+,MI,Pregnana Milanese,154,2631,E 
+,MI,Renate,314,2580,E 
+,MI,Rescaldina,220,2480,E 
+,MI,Rho,158,2631,E 
+,MI,Robecchetto con Induno,172,2673,E 
+,MI,Robecco sul Naviglio,129,2673,E 
+,MI,Rodano,112,2557,E 
+,MI,Roncello,196,2416,E 
+,MI,Ronco Briantino,247,2441,E 
+,MI,Rosate,107,2435,E 
+,MI,Rozzano,103,2404,E 
+,MI,San Colombano al Lambro,80,2649,E 
+,MI,San Donato Milanese,102,2404,E 
+,MI,San Giorgio su Legnano,198,2450,E 
+,MI,San Giuliano Milanese,98,2557,E 
+,MI,San Vittore Olona,197,2448,E 
+,MI,San Zenone al Lambro,83,2592,E 
+,MI,Santo Stefano Ticino,152,2656,E 
+,MI,Sedriano,145,2631,E 
+,MI,Segrate,115,2404,E 
+,MI,Senago,176,2485,E 
+,MI,Seregno,222,2482,E 
+,MI,Sesto San Giovanni,140,2404,E 
+,MI,Settala,108,2404,E 
+,MI,Settimo Milanese,134,2549,E 
+,MI,Seveso,211,2467,E 
+,MI,Solaro,211,2467,E 
+,MI,Sovico,221,2450,E 
+,MI,Sulbiate,227,2426,E 
+,MI,Trezzano Rosa,170,2471,E 
+,MI,Trezzano sul Naviglio,116,2404,E 
+,MI,Trezzo sull'Adda,187,2428,E 
+,MI,Tribiano,94,2557,E 
+,MI,Triuggio,231,2466,E 
+,MI,Truccazzano,108,2557,E 
+,MI,Turbigo,146,2673,E 
+,MI,Usmate Velate,221,2410,E 
+,MI,Vanzaghello,194,2673,E 
+,MI,Vanzago,161,2656,E 
+,MI,Vaprio d'Adda,161,2471,E 
+,MI,Varedo,180,2404,E 
+,MI,Vedano al Lambro,187,2404,E 
+,MI,Veduggio con Colzano,305,2532,E 
+,MI,Verano Brianza,264,2537,E 
+,MI,Vermezzo,119,2586,E 
+,MI,Vernate,103,2623,E 
+,MI,Vignate,121,2557,E 
+,MI,Villa Cortese,190,2617,E 
+,MI,Villasanta,173,2404,E 
+,MI,Vimercate,194,2404,E 
+,MI,Vimodrone,128,2404,E 
+,MI,Vittuone,146,2599,E 
+,MI,Vizzolo Predabissi,90,2557,E 
+,MI,Zelo Surrigone,113,2586,E 
+,MI,Zibido San Giacomo,103,2514,E 
+,BG,Adrara San Martino,355,2574,E 
+,BG,Adrara San Rocco,431,2682,E 
+,BG,Albano Sant'Alessandro,243,2525,E 
+,BG,Albino,342,2543,E 
+,BG,Algua,432,2785,E 
+,BG,Almè,294,2418,E 
+,BG,Almenno San Bartolomeo,352,2500,E 
+,BG,Almenno San Salvatore,322,2460,E 
+,BG,Alzano Lombardo,304,2432,E 
+,BG,Ambivere,261,2440,E 
+,BG,Antegnate,112,2251,E 
+,BG,Arcene,152,2516,E 
+,BG,Ardesio,608,2943,E 
+,BG,Arzago d'Adda,106,2353,E 
+,BG,Averara,650,2993,E 
+,BG,Aviatico,1022,3521,F 
+,BG,Azzano San Paolo,230,2506,E 
+,BG,Azzone,973,3451,F 
+,BG,Bagnatica,220,2492,E 
+,BG,Barbata,105,2251,E 
+,BG,Bariano,114,2383,E 
+,BG,Barzana,300,2496,E 
+,BG,Bedulita,600,2922,E 
+,BG,Berbenno,675,3028,F 
+,BG,Bergamo,249,2533,E 
+,BG,Berzo San Fermo,350,2497,E 
+,BG,Bianzano,600,2922,E 
+,BG,Blello,815,3227,F 
+,BG,Bolgare,199,2462,E 
+,BG,Boltiere,171,2428,E 
+,BG,Bonate Sopra,230,2396,E 
+,BG,Bonate Sotto,215,2375,E 
+,BG,Borgo di Terzo,300,2496,E 
+,BG,Bossico,860,3291,F 
+,BG,Bottanuco,222,2495,E 
+,BG,Bracca,620,2980,E 
+,BG,Branzi,874,3311,F 
+,BG,Brembate,173,2428,E 
+,BG,Brembate di Sopra,267,2449,E 
+,BG,Brembilla,425,2775,E 
+,BG,Brignano Gera d'Adda,130,2369,E 
+,BG,Brumano,911,3363,F 
+,BG,Brusaporto,255,2542,E 
+,BG,Calcinate,186,2383,E 
+,BG,Calcio,123,2383,E 
+,BG,Calusco d'Adda,273,2457,E 
+,BG,Calvenzano,113,2383,E 
+,BG,Camerata Cornello,570,2879,E 
+,BG,Canonica d'Adda,142,2416,E 
+,BG,Capizzone,454,2714,E 
+,BG,Capriate San Gervasio,190,2428,E 
+,BG,Caprino Bergamasco,315,2517,E 
+,BG,Caravaggio,111,2383,E 
+,BG,Carobbio degli Angeli,232,2399,E 
+,BG,Carona,1110,3646,F 
+,BG,Carvico,287,2477,E 
+,BG,Casazza,349,2565,E 
+,BG,Casirate d'Adda,114,2383,E 
+,BG,Casnigo,514,2799,E 
+,BG,Cassiglio,602,2924,E 
+,BG,Castel Rozzone,140,2383,E 
+,BG,Castelli Calepio,230,2388,E 
+,BG,Castione della Presolana,870,3305,F 
+,BG,Castro,200,2354,E 
+,BG,Cavernago,199,2369,E 
+,BG,Cazzano Sant'Andrea,504,2785,E 
+,BG,Cenate Sopra,330,2686,E 
+,BG,Cenate Sotto,267,2559,E 
+,BG,Cene,368,2694,E 
+,BG,Cerete,612,2949,E 
+,BG,Chignolo d'Isola,229,2395,E 
+,BG,Chiuduno,218,2379,E 
+,BG,Cisano Bergamasco,268,2450,E 
+,BG,Ciserano,159,2340,E 
+,BG,Cividate al Piano,147,2383,E 
+,BG,Clusone,648,3000,E 
+,BG,Colere,1013,3508,F 
+,BG,Cologno al Serio,156,2369,E 
+,BG,Colzate,424,2672,E 
+,BG,Comun Nuovo,188,2516,E 
+,BG,Corna Imagna,736,3115,F 
+,BG,Cornalba,893,3338,F 
+,BG,Cortenova,133,2383,E 
+,BG,Costa di Mezzate,218,2489,E 
+,BG,Costa di Serina,868,3302,F 
+,BG,Costa Valle Imagna,1014,3509,F 
+,BG,Costa Volpino,248,2403,E 
+,BG,Covo,115,2383,E 
+,BG,Credaro,225,2389,E 
+,BG,Curno,244,2526,E 
+,BG,Cusio,1040,3546,F 
+,BG,Dalmine,207,2473,E 
+,BG,Dossena,986,3470,F 
+,BG,Endine Gaiano,382,2612,E 
+,BG,Entratico,299,2494,E 
+,BG,Fara Gera d'Adda,131,2441,E 
+,BG,Fara Olivana con Sola,107,2383,E 
+,BG,Filago,190,2428,E 
+,BG,Fino del Monte,700,3074,F 
+,BG,Fiorano al Serio,396,2632,E 
+,BG,Fontanella,105,2383,E 
+,BG,Fonteno,606,2930,E 
+,BG,Foppolo,1508,4444,F 
+,BG,Foresto Sparso,346,2561,E 
+,BG,Fornovo San Giovanni,109,2404,E 
+,BG,Fuipiano Valle Imagna,1019,3520,F 
+,BG,Gandellino,682,3048,F 
+,BG,Gandino,552,2853,E 
+,BG,Gandosso,488,2763,E 
+,BG,Gaverina Terme,599,2920,E 
+,BG,Gazzaniga,386,2618,E 
+,BG,Gerosa,760,3149,F 
+,BG,Ghisalba,170,2383,E 
+,BG,Gorlago,233,2510,E 
+,BG,Gorle,268,2560,E 
+,BG,Gorno,710,3078,F 
+,BG,Grassobbio,225,2516,E 
+,BG,Gromo,676,3040,F 
+,BG,Grone,388,2621,E 
+,BG,Grumello del Monte,208,2365,E 
+,BG,Isola di Fondra,799,3204,F 
+,BG,Isso,104,2189,E 
+,BG,Lallio,216,2376,E 
+,BG,Leffe,454,2713,E 
+,BG,Lenna,482,2754,E 
+,BG,Levate,185,2516,E 
+,BG,Locatello,557,2861,E 
+,BG,Lovere,208,2365,E 
+,BG,Lurano,147,2441,E 
+,BG,Luzzana,310,2510,E 
+,BG,Madone,202,2356,E 
+,BG,Mapello,250,2425,E 
+,BG,Martinengo,149,2251,E 
+,BG,Medolago,246,2419,E 
+,BG,Mezzoldo,835,3255,F 
+,BG,Misano di Gera d'Adda,104,2404,E 
+,BG,Moio de' Calvi,654,2998,E 
+,BG,Monasterolo del Castello,365,2588,E 
+,BG,Montello,229,2505,E 
+,BG,Morengo,126,2251,E 
+,BG,Mornico al Serio,162,2383,E 
+,BG,Mozzanica,102,2404,E 
+,BG,Mozzo,252,2358,E 
+,BG,Nembro,309,2439,E 
+,BG,Olmo al Brembo,556,2859,E 
+,BG,Oltre il Colle,1030,3532,F 
+,BG,Oltressenda Alta,737,3126,F 
+,BG,Oneta,740,3120,F 
+,BG,Onore,700,3074,F 
+,BG,Orio al Serio,241,2522,E 
+,BG,Ornica,922,3379,F 
+,BG,Osio Sopra,192,2428,E 
+,BG,Osio Sotto,182,2428,E 
+,BG,Pagazzano,126,2383,E 
+,BG,Paladina,272,2456,E 
+,BG,Palazzago,397,2633,E 
+,BG,Palosco,157,2383,E 
+,BG,Parre,640,2989,E 
+,BG,Parzanica,753,3139,F 
+,BG,Pedrengo,262,2551,E 
+,BG,Peia,570,2879,E 
+,BG,Pianico,328,2535,E 
+,BG,Piario,539,2835,E 
+,BG,Piazza Brembana,536,2831,E 
+,BG,Piazzatorre,868,3302,F 
+,BG,Piazzolo,702,3066,F 
+,BG,Pognano,157,2383,E 
+,BG,Ponte Nossa,465,2730,E 
+,BG,Ponte San Pietro,224,2498,E 
+,BG,Ponteranica,381,2496,E 
+,BG,Pontida,310,2510,E 
+,BG,Pontirolo Nuovo,155,2360,E 
+,BG,Pradalunga,327,2516,E 
+,BG,Predore,190,2383,E 
+,BG,Premolo,625,2967,E 
+,BG,Presezzo,236,2515,E 
+,BG,Pumenengo,106,2251,E 
+,BG,Ranica,293,2486,E 
+,BG,Ranzanico,519,2807,E 
+,BG,Riva di Solto,186,2340,E 
+,BG,Rogno,215,2375,E 
+,BG,Romano di Lombardia,120,2251,E 
+,BG,Roncobello,1007,3500,F 
+,BG,Roncola,850,3282,F 
+,BG,Rota d'Imagna,690,3049,F 
+,BG,Rovetta,658,3014,F 
+,BG,San Giovanni Bianco,408,2698,E 
+,BG,San Paolo d'Argon,255,2432,E 
+,BG,San Pellegrino Terme,358,2680,E 
+,BG,Santa Brigida,805,3213,F 
+,BG,Sant'Omobono Imagna,427,2698,E 
+,BG,Sarnico,197,2369,E 
+,BG,Scanzorosciate,279,2466,E 
+,BG,Schilpario,1124,3666,F 
+,BG,Sedrina,328,2535,E 
+,BG,Selvino,960,3433,F 
+,BG,Seriate,247,2530,E 
+,BG,Serina,820,3387,F 
+,BG,Solto Collina,449,2698,E 
+,BG,Solza,254,2430,E 
+,BG,Songavazzo,640,2989,E 
+,BG,Sorisole,415,2659,E 
+,BG,Sotto il Monte Giovanni XXIII,291,2503,E 
+,BG,Sovere,379,2608,E 
+,BG,Spinone al Lago,360,2581,E 
+,BG,Spirano,154,2383,E 
+,BG,Stezzano,211,2479,E 
+,BG,Strozza,378,2606,E 
+,BG,Suisio,234,2402,E 
+,BG,Taleggio,758,3146,F 
+,BG,Tavernola Bergamasca,191,2340,E 
+,BG,Telgate,191,2383,E 
+,BG,Terno d'Isola,229,2505,E 
+,BG,Torre Boldone,280,2467,E 
+,BG,Torre de' Roveri,271,2564,E 
+,BG,Torre Pallavicina,95,2251,E 
+,BG,Trescore Balneario,305,2454,E 
+,BG,Treviglio,125,2237,E 
+,BG,Treviolo,225,2499,E 
+,BG,Ubiale Clanezzo,336,2547,E 
+,BG,Urgnano,173,2428,E 
+,BG,Valbondione,900,3348,F 
+,BG,Valbrembo,261,2550,E 
+,BG,Valgoglio,929,3389,F 
+,BG,Valleve,1141,3690,F 
+,BG,Valnegra,581,2895,E 
+,BG,Valsecca,627,2960,E 
+,BG,Valtorta,935,3397,F 
+,BG,Vedeseta,820,3234,F 
+,BG,Verdellino,172,2340,E 
+,BG,Verdello,173,2369,E 
+,BG,Vertova,397,2607,E 
+,BG,Viadanica,336,2547,E 
+,BG,Vigano San Martino,363,2585,E 
+,BG,Vigolo,616,2944,E 
+,BG,Villa d'Adda,286,2476,E 
+,BG,Villa d'Almè,300,2496,E 
+,BG,Villa di Serio,275,2460,E 
+,BG,Villa d'Ogna,542,2839,E 
+,BG,Villongo,230,2437,E 
+,BG,Vilminore di Scalve,1019,3517,F 
+,BG,Zandobbio,278,2464,E 
+,BG,Zanica,208,2475,E 
+,BG,Zogno,334,2544,E 
+,BS,Acquafredda,55,2399,E 
+,BS,Adro,271,2597,E 
+,BS,Agnosine,465,2881,E 
+,BS,Alfianello,48,2389,E 
+,BS,Anfo,400,2859,E 
+,BS,Angolo Terme,426,2851,E 
+,BS,Artogne,266,2559,E 
+,BS,Azzano Mella,95,2570,E 
+,BS,Bagnolo Mella,85,2410,E 
+,BS,Bagolino,778,3322,F 
+,BS,Barbariga,81,2341,E 
+,BS,Barghe,295,2631,E 
+,BS,Bassano Bresciano,65,2479,E 
+,BS,Bedizzole,184,2399,E 
+,BS,Berlingo,121,2251,E 
+,BS,Berzo Demo,790,3332,F 
+,BS,Berzo Inferiore,356,2718,E 
+,BS,Bienno,445,2870,E 
+,BS,Bione,600,3067,F 
+,BS,Borgo San Giacomo,74,2477,E 
+,BS,Borgosatollo,112,2399,E 
+,BS,Borno,912,3612,F 
+,BS,Botticino,153,2455,E 
+,BS,Bovegno,684,3187,F 
+,BS,Bovezzo,203,2501,E 
+,BS,Brandico,99,2410,E 
+,BS,Braone,394,2982,E 
+,BS,Breno,343,3425,F 
+,BS,Brescia,149,2410,E 
+,BS,Brione,614,3087,F 
+,BS,Caino,385,2760,E 
+,BS,Calcinato,171,2570,E 
+,BS,Calvagese della Riviera,225,2522,E 
+,BS,Calvisano,67,2399,E 
+,BS,Capo di Ponte,362,2727,E 
+,BS,Capovalle,960,3544,F 
+,BS,Capriano del Colle,92,2410,E 
+,BS,Capriolo,216,2521,E 
+,BS,Carpenedolo,78,2399,E 
+,BS,Castegnato,143,2410,E 
+,BS,Castel Mella,106,2410,E 
+,BS,Castelcovati,121,2251,E 
+,BS,Castenedolo,152,2399,E 
+,BS,Casto,417,2804,E 
+,BS,Castrezzato,125,2410,E 
+,BS,Cazzago San Martino,200,2495,E 
+,BS,Cedegolo,413,2800,E 
+,BS,Cellatica,170,2410,E 
+,BS,Cerveno,500,2924,E 
+,BS,Ceto,453,2857,E 
+,BS,Cevo,1070,3739,F 
+,BS,Chiari,148,2251,E 
+,BS,Cigole,56,2341,E 
+,BS,Cimbergo,850,3425,F 
+,BS,Cividate Camuno,274,2597,E 
+,BS,Coccaglio,162,2383,E 
+,BS,Collebeato,192,2455,E 
+,BS,Collio,850,3473,F 
+,BS,Cologne,187,2383,E 
+,BS,Comezzano-Cizzago,107,2251,E 
+,BS,Concesio,216,2521,E 
+,BS,Corte Franca,229,2537,E 
+,BS,Corteno Golgi,925,3532,F 
+,BS,Corzano,101,2341,E 
+,BS,Darfo Boario Terme,218,2510,E 
+,BS,Dello,84,2340,E 
+,BS,Desenzano del Garda,67,2229,E 
+,BS,Edolo,699,3209,F 
+,BS,Erbusco,236,2706,E 
+,BS,Esine,286,2618,E 
+,BS,Fiesse,39,2396,E 
+,BS,Flero,104,2410,E 
+,BS,Gambara,51,2348,E 
+,BS,Gardone Riviera,71,2355,E 
+,BS,Gardone Val Trompia,332,2704,E 
+,BS,Gargnano,66,2120,E 
+,BS,Gavardo,199,2494,E 
+,BS,Ghedi,85,2570,E 
+,BS,Gianico,281,2606,E 
+,BS,Gottolengo,53,2479,E 
+,BS,Gussago,186,2410,E 
+,BS,Idro,375,2746,E 
+,BS,Incudine,910,3511,F 
+,BS,Irma,804,3360,F 
+,BS,Iseo,198,2383,E 
+,BS,Isorella,56,2399,E 
+,BS,Lavenone,385,2760,E 
+,BS,Leno,66,2399,E 
+,BS,Limone sul Garda,66,2176,E 
+,BS,Lodrino,725,3233,F 
+,BS,Lograto,113,2410,E 
+,BS,Lonato,188,2399,E 
+,BS,Longhena,91,2410,E 
+,BS,Losine,391,2768,E 
+,BS,Lozio,975,3604,F 
+,BS,Lumezzane,460,2867,E 
+,BS,Maclodio,109,2410,E 
+,BS,Magasa,970,3596,F 
+,BS,Mairano,96,2410,E 
+,BS,Malegno,328,2678,E 
+,BS,Malonno,596,3053,F 
+,BS,Manerba del Garda,130,2355,E 
+,BS,Manerbio,64,2400,E 
+,BS,Marcheno,372,2767,E 
+,BS,Marmentino,875,3461,F 
+,BS,Marone,189,2455,E 
+,BS,Mazzano,156,2570,E 
+,BS,Milzano,49,2275,E 
+,BS,Moniga del Garda,125,2229,E 
+,BS,Monno,1066,3734,F 
+,BS,Monte Isola,262,2621,E 
+,BS,Monticelli Brusati,283,2604,E 
+,BS,Montichiari,104,2399,E 
+,BS,Montirone,100,2410,E 
+,BS,Mura,691,3197,F 
+,BS,Muscoline,272,2632,E 
+,BS,Nave,236,2547,E 
+,BS,Niardo,442,2843,E 
+,BS,Nuvolento,176,2494,E 
+,BS,Nuvolera,165,2417,E 
+,BS,Odolo,345,2703,E 
+,BS,Offlaga,74,2410,E 
+,BS,Ome,231,2555,E 
+,BS,Ono San Pietro,516,2947,E 
+,BS,Orzinuovi,88,2410,E 
+,BS,Orzivecchi,91,2410,E 
+,BS,Ospitaletto,154,2446,E 
+,BS,Ossimo,869,3452,F 
+,BS,Padenghe sul Garda,127,2355,E 
+,BS,Paderno Franciacorta,186,2446,E 
+,BS,Paisco Loveno,853,3429,F 
+,BS,Paitone,177,2410,E 
+,BS,Palazzolo sull'Oglio,166,2383,E 
+,BS,Paratico,234,2541,E 
+,BS,Paspardo,978,3608,F 
+,BS,Passirano,210,2510,E 
+,BS,Pavone del Mella,54,2479,E 
+,BS,Pertica Alta,900,3496,F 
+,BS,Pertica Bassa,511,2940,E 
+,BS,Pezzaze,620,3227,F 
+,BS,Pian Camuno,244,2547,E 
+,BS,Piancogno,250,2568,E 
+,BS,Pisogne,187,2455,E 
+,BS,Polaveno,568,3084,F 
+,BS,Polpenazze del Garda,207,2520,E 
+,BS,Pompiano,93,2410,E 
+,BS,Poncarale,100,2410,E 
+,BS,Ponte di Legno,1257,4007,F 
+,BS,Pontevico,55,2389,E 
+,BS,Pontoglio,155,2383,E 
+,BS,Pozzolengo,135,2377,E 
+,BS,Pralboino,47,2275,E 
+,BS,Preseglie,391,2771,E 
+,BS,Prestine,610,3082,F 
+,BS,Prevalle,186,2355,E 
+,BS,Provaglio d'Iseo,230,2538,E 
+,BS,Provaglio Val Sabbia,678,3179,F 
+,BS,Puegnago sul Garda,224,2530,E 
+,BS,Quinzano d'Oglio,65,2389,E 
+,BS,Remedello,47,2278,E 
+,BS,Rezzato,147,2329,E 
+,BS,Roccafranca,117,2251,E 
+,BS,Rodengo-Saiano,176,2446,E 
+,BS,Roè Volciano,240,2553,E 
+,BS,Roncadelle,118,2410,E 
+,BS,Rovato,192,2495,E 
+,BS,Rudiano,117,2410,E 
+,BS,Sabbio Chiese,279,2610,E 
+,BS,Sale Marasino,200,2497,E 
+,BS,Salò,75,2265,E 
+,BS,San Felice del Benaco,109,2265,E 
+,BS,San Gervasio Bresciano,57,2389,E 
+,BS,San Paolo,77,2410,E 
+,BS,San Zeno Naviglio,112,2350,E 
+,BS,Sarezzo,273,2623,E 
+,BS,Saviore dell'Adamello,1210,3940,F 
+,BS,Sellero,476,2890,E 
+,BS,Seniga,48,2275,E 
+,BS,Serle,493,2919,E 
+,BS,Sirmione,66,2229,E 
+,BS,Soiano del Lago,196,2355,E 
+,BS,Sonico,650,3120,F 
+,BS,Sulzano,200,2505,E 
+,BS,Tavernole sul Mella,475,2883,E 
+,BS,Temù,1144,3861,F 
+,BS,Tignale,555,3003,F 
+,BS,Torbole Casaglia,120,2410,E 
+,BS,Toscolano-Maderno,86,2265,E 
+,BS,Travagliato,129,2410,E 
+,BS,Tremosine,414,2801,E 
+,BS,Trenzano,108,2410,E 
+,BS,Treviso Bresciano,687,3192,F 
+,BS,Urago d'Oglio,131,2251,E 
+,BS,Vallio Terme,304,2633,E 
+,BS,Valvestino,680,3182,F 
+,BS,Verolanuova,64,2403,E 
+,BS,Verolavecchia,68,2479,E 
+,BS,Vestone,319,2664,E 
+,BS,Vezza d'Oglio,1080,3754,F 
+,BS,Villa Carcina,249,2554,E 
+,BS,Villachiara,75,2320,E 
+,BS,Villanuova sul Clisi,216,2511,E 
+,BS,Vione,1250,3997,F 
+,BS,Visano,60,2396,E 
+,BS,Vobarno,241,2560,E 
+,BS,Zone,684,3251,F 
+,PV,Alagna,92,2619,E 
+,PV,Albaredo Arnaboldi,62,2628,E 
+,PV,Albonese,113,2673,E 
+,PV,Albuzzano,76,2628,E 
+,PV,Arena Po,61,2628,E 
+,PV,Badia Pavese,55,2664,E 
+,PV,Bagnaria,333,2911,E 
+,PV,Barbianello,67,2628,E 
+,PV,Bascapè,89,2557,E 
+,PV,Bastida de' Dossi,77,2619,E 
+,PV,Bastida Pancarana,67,2619,E 
+,PV,Battuda,98,2619,E 
+,PV,Belgioioso,75,2628,E 
+,PV,Bereguardo,98,2619,E 
+,PV,Borgarello,88,2619,E 
+,PV,Borgo Priolo,144,2685,E 
+,PV,Borgo San Siro,98,2619,E 
+,PV,Borgoratto Mormorolo,326,3053,F 
+,PV,Bornasco,85,2628,E 
+,PV,Bosnasco,124,2628,E 
+,PV,Brallo di Pregola,951,3772,F 
+,PV,Breme,101,2812,E 
+,PV,Bressana Bottarone,69,2619,E 
+,PV,Broni,88,2628,E 
+,PV,Calvignano,275,2973,E 
+,PV,Campospinoso,64,2628,E 
+,PV,Candia Lomellina,102,2812,E 
+,PV,Canevino,410,2917,E 
+,PV,Canneto Pavese,233,2878,E 
+,PV,Carbonara al Ticino,83,2619,E 
+,PV,Casanova Lonati,64,2628,E 
+,PV,Casatisma,77,2623,E 
+,PV,Casei Gerola,81,2619,E 
+,PV,Casorate Primo,103,2619,E 
+,PV,Cassolnovo,120,2673,E 
+,PV,Castana,290,2968,E 
+,PV,Casteggio,90,2619,E 
+,PV,Castelletto di Branduzzo,70,2623,E 
+,PV,Castello d'Agogna,106,2641,E 
+,PV,Castelnovetto,111,2680,E 
+,PV,Cava Manara,79,2619,E 
+,PV,Cecima,331,2937,E 
+,PV,Ceranova,86,2628,E 
+,PV,Ceretto Lomellina,109,2641,E 
+,PV,Cergnago,100,2619,E 
+,PV,Certosa di Pavia,89,2619,E 
+,PV,Cervesina,72,2619,E 
+,PV,Chignolo Po,68,2664,E 
+,PV,Cigognola,309,2998,E 
+,PV,Cilavegna,115,2673,E 
+,PV,Codevilla,146,2685,E 
+,PV,Confienza,126,2614,E 
+,PV,Copiano,74,2628,E 
+,PV,Corana,71,2619,E 
+,PV,Cornale,74,2619,E 
+,PV,Corteolona,71,2628,E 
+,PV,Corvino San Quirico,218,2842,E 
+,PV,Costa de' Nobili,66,2628,E 
+,PV,Cozzo,105,2680,E 
+,PV,Cura Carpignano,78,2628,E 
+,PV,Dorno,90,2619,E 
+,PV,Ferrera Erbognone,89,2619,E 
+,PV,Filighera,74,2628,E 
+,PV,Fortunago,482,2962,E 
+,PV,Frascarolo,87,2715,E 
+,PV,Galliavola,90,2619,E 
+,PV,Gambarana,83,2619,E 
+,PV,Gambolò,106,2619,E 
+,PV,Garlasco,93,2619,E 
+,PV,Genzone,72,2623,E 
+,PV,Gerenzago,74,2623,E 
+,PV,Giussago,93,2619,E 
+,PV,Godiasco,196,2690,E 
+,PV,Golferenzo,464,3003,F 
+,PV,Gravellona Lomellina,118,2673,E 
+,PV,Gropello Cairoli,89,2619,E 
+,PV,Inverno e Monteleone,74,2628,E 
+,PV,Landriano,88,2628,E 
+,PV,Langosco,111,2785,E 
+,PV,Lardirago,83,2628,E 
+,PV,Linarolo,76,2628,E 
+,PV,Lirio,257,2944,E 
+,PV,Lomello,96,2619,E 
+,PV,Lungavilla,75,2619,E 
+,PV,Magherno,76,2628,E 
+,PV,Marcignago,93,2619,E 
+,PV,Marzano,78,2628,E 
+,PV,Mede,93,2619,E 
+,PV,Menconico,728,3420,F 
+,PV,Mezzana Bigli,76,2619,E 
+,PV,Mezzana Rabattone,68,2619,E 
+,PV,Mezzanino,62,2628,E 
+,PV,Miradolo Terme,72,2628,E 
+,PV,Montalto Pavese,380,3138,F 
+,PV,Montebello della Battaglia,110,2619,E 
+,PV,Montecalvo Versiggia,360,3189,F 
+,PV,Montescano,137,2628,E 
+,PV,Montesegale,426,2962,E 
+,PV,Monticelli Pavese,53,2649,E 
+,PV,Montù Beccaria,277,2947,E 
+,PV,Mornico Losana,284,2958,E 
+,PV,Mortara,108,2641,E 
+,PV,Nicorvo,115,2614,E 
+,PV,Olevano di Lomellina,108,2641,E 
+,PV,Oliva Gessi,275,2944,E 
+,PV,Ottobiano,96,2619,E 
+,PV,Palestro,121,2614,E 
+,PV,Pancarana,68,2619,E 
+,PV,Parona,113,2641,E 
+,PV,Pavia,77,2623,E 
+,PV,Pietra de' Giorgi,311,3001,F 
+,PV,Pieve Albignola,85,2619,E 
+,PV,Pieve del Cairo,80,2619,E 
+,PV,Pieve Porto Morone,58,2628,E 
+,PV,Pinarolo Po,67,2628,E 
+,PV,Pizzale,78,2619,E 
+,PV,Ponte Nizza,267,2802,E 
+,PV,Portalbera,64,2628,E 
+,PV,Rea,63,2619,E 
+,PV,Redavalle,85,2628,E 
+,PV,Retorbido,169,2685,E 
+,PV,Rivanazzano,153,2685,E 
+,PV,Robbio,122,2614,E 
+,PV,Robecco Pavese,75,2619,E 
+,PV,Rocca de' Giorgi,219,2745,E 
+,PV,Rocca Susella,525,3246,F 
+,PV,Rognano,95,2619,E 
+,PV,Romagnese,630,3265,F 
+,PV,Roncaro,81,2628,E 
+,PV,Rosasco,114,2680,E 
+,PV,Rovescala,250,2720,E 
+,PV,Ruino,526,3100,F 
+,PV,San Cipriano Po,63,2628,E 
+,PV,San Damiano al Colle,216,2851,E 
+,PV,San Genesio ed Uniti,86,2628,E 
+,PV,San Giorgio di Lomellina,99,2619,E 
+,PV,San Martino Siccomario,63,2623,E 
+,PV,San Zenone al Po,59,2628,E 
+,PV,Sannazzaro de' Burgondi,87,2619,E 
+,PV,Santa Cristina e Bissone,71,2628,E 
+,PV,Santa Giuletta,78,2628,E 
+,PV,Santa Margherita di Staffora,550,3138,F 
+,PV,Santa Maria della Versa,199,2852,E 
+,PV,Sant'Alessio con Vialone,83,2628,E 
+,PV,Sant'Angelo Lomellina,112,2812,E 
+,PV,Sartirana Lomellina,99,2730,E 
+,PV,Scaldasole,86,2619,E 
+,PV,Semiana,97,2715,E 
+,PV,Silvano Pietra,83,2619,E 
+,PV,Siziano,93,2601,E 
+,PV,Sommo,80,2619,E 
+,PV,Spessa,61,2628,E 
+,PV,Stradella,101,2619,E 
+,PV,Suardi,84,2715,E 
+,PV,Torrazza Coste,159,2685,E 
+,PV,Torre Beretti e Castellaro,89,2619,E 
+,PV,Torre d'Arese,78,2628,E 
+,PV,Torre de' Negri,73,2628,E 
+,PV,Torre d'Isola,84,2619,E 
+,PV,Torrevecchia Pia,84,2628,E 
+,PV,Torricella Verzate,160,2628,E 
+,PV,Travacò Siccomario,61,2619,E 
+,PV,Trivolzio,97,2619,E 
+,PV,Tromello,97,2619,E 
+,PV,Trovo,97,2619,E 
+,PV,Val di Nizza,412,2962,E 
+,PV,Valeggio,93,2619,E 
+,PV,Valle Lomellina,101,2812,E 
+,PV,Valle Salimbene,71,2623,E 
+,PV,Valverde,567,3165,F 
+,PV,Varzi,416,2903,E 
+,PV,Velezzo Lomellina,98,2619,E 
+,PV,Vellezzo Bellini,94,2619,E 
+,PV,Verretto,78,2619,E 
+,PV,Verrua Po,64,2628,E 
+,PV,Vidigulfo,88,2514,E 
+,PV,Vigevano,116,2544,E 
+,PV,Villa Biscossi,90,2619,E 
+,PV,Villanova d'Ardenghi,86,2619,E 
+,PV,Villanterio,75,2628,E 
+,PV,Vistarino,72,2628,E 
+,PV,Voghera,96,2685,E 
+,PV,Volpara,357,2968,E 
+,PV,Zavattarello,550,3138,F 
+,PV,Zeccone,86,2628,E 
+,PV,Zeme,104,2622,E 
+,PV,Zenevredo,204,2832,E 
+,PV,Zerbo,68,2628,E 
+,PV,Zerbolò,68,2619,E 
+,PV,Zinasco,84,2619,E 
+,CR,Acquanegra Cremonese,45,2545,E 
+,CR,Agnadello,94,2557,E 
+,CR,Annicco,60,2545,E 
+,CR,Azzanello,68,2389,E 
+,CR,Bagnolo Cremasco,82,2557,E 
+,CR,Bonemerse,40,2389,E 
+,CR,Bordolano,64,2389,E 
+,CR,Ca' d'Andrea,34,2389,E 
+,CR,Calvatone,29,2388,E 
+,CR,Camisano,96,2251,E 
+,CR,Campagnola Cremasca,84,2251,E 
+,CR,Capergnanica,79,2557,E 
+,CR,Cappella Cantone,60,2389,E 
+,CR,Cappella de' Picenardi,42,2389,E 
+,CR,Capralba,96,2251,E 
+,CR,Casalbuttano ed Uniti,60,2389,E 
+,CR,Casale Cremasco-Vidolasco,92,2251,E 
+,CR,Casaletto Ceredano,65,2557,E 
+,CR,Casaletto di Sopra,89,2251,E 
+,CR,Casaletto Vaprio,87,2557,E 
+,CR,Casalmaggiore,26,2435,E 
+,CR,Casalmorano,67,2389,E 
+,CR,Castel Gabbiano,100,2251,E 
+,CR,Casteldidone,27,2389,E 
+,CR,Castelleone,66,2389,E 
+,CR,Castelverde,52,2389,E 
+,CR,Castelvisconti,66,2389,E 
+,CR,Cella Dati,34,2389,E 
+,CR,Chieve,77,2557,E 
+,CR,Cicognolo,44,2389,E 
+,CR,Cingia de' Botti,31,2389,E 
+,CR,Corte de' Cortesi con Cignone,60,2389,E 
+,CR,Corte de' Frati,51,2389,E 
+,CR,Credera Rubbiano,70,2505,E 
+,CR,Crema,79,2506,E 
+,CR,Cremona,45,2389,E 
+,CR,Cremosano,83,2557,E 
+,CR,Crotta d'Adda,52,2389,E 
+,CR,Cumignano sul Naviglio,77,2403,E 
+,CR,Derovere,36,2389,E 
+,CR,Dovera,76,2557,E 
+,CR,Drizzona,34,2389,E 
+,CR,Fiesco,74,2251,E 
+,CR,Formigara,59,2545,E 
+,CR,Gabbioneta-Binanuova,38,2389,E 
+,CR,Gadesco-Pieve Delmona,44,2389,E 
+,CR,Genivolta,70,2389,E 
+,CR,Gerre de' Caprioli,37,2389,E 
+,CR,Gombito,65,2545,E 
+,CR,Grontardo,46,2389,E 
+,CR,Grumello Cremonese ed Uniti,50,2389,E 
+,CR,Gussola,28,2389,E 
+,CR,Isola Dovarese,35,2389,E 
+,CR,Izano,77,2251,E 
+,CR,Madignano,72,2474,E 
+,CR,Malagnino,43,2389,E 
+,CR,Martignana di Po,26,2389,E 
+,CR,Monte Cremasco,84,2557,E 
+,CR,Montodine,67,2474,E 
+,CR,Moscazzano,68,2474,E 
+,CR,Motta Baluffi,31,2389,E 
+,CR,Offanengo,83,2474,E 
+,CR,Olmeneta,55,2389,E 
+,CR,Ostiano,43,2389,E 
+,CR,Paderno Ponchielli,58,2389,E 
+,CR,Palazzo Pignano,87,2557,E 
+,CR,Pandino,85,2557,E 
+,CR,Persico Dosimo,48,2389,E 
+,CR,Pescarolo ed Uniti,45,2389,E 
+,CR,Pessina Cremonese,42,2389,E 
+,CR,Piadena,34,2389,E 
+,CR,Pianengo,83,2385,E 
+,CR,Pieranica,90,2557,E 
+,CR,Pieve d'Olmi,36,2389,E 
+,CR,Pieve San Giacomo,39,2389,E 
+,CR,Pizzighettone,46,2545,E 
+,CR,Pozzaglio ed Uniti,50,2389,E 
+,CR,Quintano,93,2557,E 
+,CR,Ricengo,86,2399,E 
+,CR,Ripalta Arpina,72,2474,E 
+,CR,Ripalta Cremasca,78,2474,E 
+,CR,Ripalta Guerina,73,2474,E 
+,CR,Rivarolo del Re ed Uniti,22,2388,E 
+,CR,Rivolta d'Adda,101,2557,E 
+,CR,Robecco d'Oglio,48,2479,E 
+,CR,Romanengo,83,2320,E 
+,CR,Salvirola,75,2320,E 
+,CR,San Bassano,59,2389,E 
+,CR,San Daniele Po,33,2389,E 
+,CR,San Giovanni in Croce,28,2389,E 
+,CR,San Martino del Lago,31,2389,E 
+,CR,Scandolara Ravara,30,2389,E 
+,CR,Scandolara Ripa d'Oglio,47,2389,E 
+,CR,Sergnano,91,2404,E 
+,CR,Sesto ed Uniti,52,2389,E 
+,CR,Solarolo Rainerio,28,2389,E 
+,CR,Soncino,86,2403,E 
+,CR,Soresina,70,2478,E 
+,CR,Sospiro,36,2389,E 
+,CR,Spinadesco,48,2389,E 
+,CR,Spineda,23,2388,E 
+,CR,Spino d'Adda,84,2557,E 
+,CR,Stagno Lombardo,36,2389,E 
+,CR,Ticengo,76,2410,E 
+,CR,Torlino Vimercati,88,2557,E 
+,CR,Tornata,29,2388,E 
+,CR,Torre de' Picenardi,37,2389,E 
+,CR,Torricella del Pizzo,29,2389,E 
+,CR,Trescore Cremasco,86,2404,E 
+,CR,Trigolo,70,2478,E 
+,CR,Vaiano Cremasco,82,2557,E 
+,CR,Vailate,103,2404,E 
+,CR,Vescovato,46,2389,E 
+,CR,Volongo,43,2389,E 
+,CR,Voltido,35,2389,E 
+,MN,Acquanegra sul Chiese,31,2388,E 
+,MN,Asola,42,2420,E 
+,MN,Bagnolo San Vito,19,2388,E 
+,MN,Bigarello,23,2388,E 
+,MN,Borgoforte,19,2388,E 
+,MN,Borgofranco sul Po,14,2355,E 
+,MN,Bozzolo,30,2388,E 
+,MN,Canneto sull'Oglio,34,2389,E 
+,MN,Carbonara di Po,14,2355,E 
+,MN,Casalmoro,47,2420,E 
+,MN,Casaloldo,45,2420,E 
+,MN,Casalromano,42,2420,E 
+,MN,Castel d'Ario,24,2388,E 
+,MN,Castel Goffredo,53,2428,E 
+,MN,Castelbelforte,27,2388,E 
+,MN,Castellucchio,26,2388,E 
+,MN,Castiglione delle Stiviere,116,2363,E 
+,MN,Cavriana,170,2598,E 
+,MN,Ceresara,44,2428,E 
+,MN,Commessaggio,22,2388,E 
+,MN,Curtatone,26,2388,E 
+,MN,Dosolo,25,2435,E 
+,MN,Felonica,11,2355,E 
+,MN,Gazoldo degli Ippoliti,35,2388,E 
+,MN,Gazzuolo,25,2388,E 
+,MN,Goito,33,2388,E 
+,MN,Gonzaga,22,2435,E 
+,MN,Guidizzolo,61,2377,E 
+,MN,Magnacavallo,11,2355,E 
+,MN,Mantova,19,2388,E 
+,MN,Marcaria,25,2388,E 
+,MN,Mariana Mantovana,36,2388,E 
+,MN,Marmirolo,29,2388,E 
+,MN,Medole,62,2428,E 
+,MN,Moglia,20,2388,E 
+,MN,Monzambano,88,2377,E 
+,MN,Motteggiana,20,2388,E 
+,MN,Ostiglia,13,2355,E 
+,MN,Pegognaga,22,2411,E 
+,MN,Pieve di Coriano,16,2388,E 
+,MN,Piubega,40,2388,E 
+,MN,Poggio Rusco,16,2355,E 
+,MN,Pomponesco,23,2435,E 
+,MN,Ponti sul Mincio,113,2377,E 
+,MN,Porto Mantovano,29,2388,E 
+,MN,Quingentole,16,2388,E 
+,MN,Quistello,17,2388,E 
+,MN,Redondesco,31,2388,E 
+,MN,Revere,16,2388,E 
+,MN,Rivarolo Mantovano,26,2388,E 
+,MN,Rodigo,31,2388,E 
+,MN,Roncoferraro,25,2388,E 
+,MN,Roverbella,48,2388,E 
+,MN,Sabbioneta,18,2435,E 
+,MN,San Benedetto Po,19,2388,E 
+,MN,San Giacomo delle Segnate,16,2393,E 
+,MN,San Giorgio di Mantova,27,2388,E 
+,MN,San Giovanni del Dosso,16,2334,E 
+,MN,San Martino dall'Argine,29,2388,E 
+,MN,Schivenoglia,16,2393,E 
+,MN,Sermide,12,2355,E 
+,MN,Serravalle a Po,15,2388,E 
+,MN,Solferino,124,2442,E 
+,MN,Sustinente,17,2388,E 
+,MN,Suzzara,20,2435,E 
+,MN,Viadana,26,2435,E 
+,MN,Villa Poma,13,2371,E 
+,MN,Villimpenta,18,2388,E 
+,MN,Virgilio,22,2388,E 
+,MN,Volta Mantovana,91,2526,E 
+,LC,Abbadia Lariana,204,2359,E 
+,LC,Airuno,222,2385,E 
+,LC,Annone di Brianza,265,2446,E 
+,LC,Ballabio,661,3014,F 
+,LC,Barzago,358,2578,E 
+,LC,Barzanò,370,2595,E 
+,LC,Barzio,769,3158,F 
+,LC,Bellano,202,2220,E 
+,LC,Bosisio Parini,270,2453,E 
+,LC,Brivio,208,2365,E 
+,LC,Bulciago,305,2503,E 
+,LC,Calco,283,2471,E 
+,LC,Calolziocorte,241,2412,E 
+,LC,Carenno,635,2971,E 
+,LC,Casargo,804,3211,F 
+,LC,Casatenovo,340,2581,E 
+,LC,Cassago Brianza,334,2544,E 
+,LC,Cassina Valsassina,849,3272,F 
+,LC,Castello di Brianza,350,2538,E 
+,LC,Cernusco Lombardone,267,2449,E 
+,LC,Cesana Brianza,300,2496,E 
+,LC,Civate,269,2452,E 
+,LC,Colico,218,2243,E 
+,LC,Colle Brianza,558,2862,E 
+,LC,Cortenova,483,2755,E 
+,LC,Costa Masnaga,318,2521,E 
+,LC,Crandola Valsassina,780,3177,F 
+,LC,Cremella,383,2613,E 
+,LC,Cremeno,792,3191,F 
+,LC,Dervio,238,2271,E 
+,LC,Dolzago,298,2493,E 
+,LC,Dorio,210,2232,E 
+,LC,Ello,411,2653,E 
+,LC,Erve,559,2863,E 
+,LC,Esino Lario,910,3362,F 
+,LC,Galbiate,371,2596,E 
+,LC,Garbagnate Monastero,299,2494,E 
+,LC,Garlate,205,2361,E 
+,LC,Imbersago,249,2423,E 
+,LC,Introbio,586,2902,E 
+,LC,Introzzo,704,3069,F 
+,LC,Lecco,214,2383,E 
+,LC,Lierna,202,2220,E 
+,LC,Lomagna,255,2432,E 
+,LC,Malgrate,231,2398,E 
+,LC,Mandello del Lario,214,2373,E 
+,LC,Margno,730,3106,F 
+,LC,Merate,292,2484,E 
+,LC,Missaglia,326,2533,E 
+,LC,Moggio,890,3330,F 
+,LC,Molteno,292,2484,E 
+,LC,Monte Marenzo,440,2694,E 
+,LC,Montevecchia,479,2750,E 
+,LC,Monticello Brianza,406,2646,E 
+,LC,Morterone,1070,3592,F 
+,LC,Nibionno,306,2504,E 
+,LC,Oggiono,268,2450,E 
+,LC,Olgiate Molgora,287,2477,E 
+,LC,Olginate,206,2362,E 
+,LC,Oliveto Lario,208,2365,E 
+,LC,Osnago,249,2423,E 
+,LC,Paderno d'Adda,266,2447,E 
+,LC,Pagnona,790,3191,F 
+,LC,Parlasco,679,3034,F 
+,LC,Pasturo,641,2980,E 
+,LC,Perego,374,2601,E 
+,LC,Perledo,395,2630,E 
+,LC,Pescate,214,2373,E 
+,LC,Premana,1000,3490,F 
+,LC,Primaluna,558,2862,E 
+,LC,Robbiate,265,2446,E 
+,LC,Rogeno,292,2484,E 
+,LC,Rovagnate,342,2555,E 
+,LC,Santa Maria Hoè,371,2596,E 
+,LC,Sirone,273,2457,E 
+,LC,Sirtori,457,2719,E 
+,LC,Sueglio,775,3170,F 
+,LC,Suello,275,2460,E 
+,LC,Taceno,507,2790,E 
+,LC,Torre de' Busi,472,2698,E 
+,LC,Tremenico,754,3140,F 
+,LC,Valgreghentino,304,2501,E 
+,LC,Valmadrera,234,2402,E 
+,LC,Varenna,220,2246,E 
+,LC,Vendrogno,731,3108,F 
+,LC,Vercurago,225,2389,E 
+,LC,Verderio Inferiore,249,2423,E 
+,LC,Verderio Superiore,250,2425,E 
+,LC,Vestreno,587,2903,E 
+,LC,Viganò,390,2623,E 
+,LO,Abbadia Cerreto,64,2557,E 
+,LO,Bertonico,63,2549,E 
+,LO,Boffalora d'Adda,78,2557,E 
+,LO,Borghetto Lodigiano,68,2578,E 
+,LO,Borgo San Giovanni,77,2592,E 
+,LO,Brembio,67,2579,E 
+,LO,Camairago,59,2545,E 
+,LO,Casaletto Lodigiano,80,2592,E 
+,LO,Casalmaiocco,88,2557,E 
+,LO,Casalpusterlengo,60,2545,E 
+,LO,Caselle Landi,44,2545,E 
+,LO,Caselle Lurani,80,2628,E 
+,LO,Castelnuovo Bocca d'Adda,49,2545,E 
+,LO,Castiglione d'Adda,60,2549,E 
+,LO,Castiraga Vidardo,65,2623,E 
+,LO,Cavacurta,60,2545,E 
+,LO,Cavenago d'Adda,73,2629,E 
+,LO,Cervignano d'Adda,87,2557,E 
+,LO,Codogno,57,2545,E 
+,LO,Comazzo,98,2557,E 
+,LO,Cornegliano Laudense,78,2592,E 
+,LO,Corno Giovine,50,2545,E 
+,LO,Cornovecchio,52,2545,E 
+,LO,Corte Palasio,69,2578,E 
+,LO,Crespiatica,76,2441,E 
+,LO,Fombio,57,2701,E 
+,LO,Galgagnano,86,2557,E 
+,LO,Graffignana,67,2441,E 
+,LO,Guardamiglio,49,2701,E 
+,LO,Livraga,67,2579,E 
+,LO,Lodi,87,2592,E 
+,LO,Lodi Vecchio,82,2592,E 
+,LO,Maccastorna,45,2545,E 
+,LO,Mairago,69,2579,E 
+,LO,Maleo,58,2545,E 
+,LO,Marudo,77,2623,E 
+,LO,Massalengo,76,2592,E 
+,LO,Meleti,40,2545,E 
+,LO,Merlino,101,2557,E 
+,LO,Montanaso Lombardo,83,2557,E 
+,LO,Mulazzano,91,2557,E 
+,LO,Orio Litta,63,2701,E 
+,LO,Ospedaletto Lodigiano,64,2701,E 
+,LO,Ossago Lodigiano,71,2524,E 
+,LO,Pieve Fissiraga,76,2551,E 
+,LO,Salerano sul Lambro,77,2592,E 
+,LO,San Fiorano,56,2701,E 
+,LO,San Martino in Strada,73,2524,E 
+,LO,San Rocco al Porto,47,2701,E 
+,LO,Sant'Angelo Lodigiano,73,2623,E 
+,LO,Santo Stefano Lodigiano,48,2701,E 
+,LO,Secugnago,68,2579,E 
+,LO,Senna Lodigiana,62,2701,E 
+,LO,Somaglia,57,2701,E 
+,LO,Sordio,85,2557,E 
+,LO,Tavazzano con Villavesco,82,2514,E 
+,LO,Terranova dei Passerini,63,2573,E 
+,LO,Turano Lodigiano,68,2579,E 
+,LO,Valera Fratta,78,2623,E 
+,LO,Villanova del Sillaro,69,2551,E 
+,LO,Zelo Buon Persico,95,2557,E 
